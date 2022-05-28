@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SE328Project</string>
+    <string name="stitle">Title</string>
+    <string name="sauthor">Author</string>
+    <string name="scategory">Category</string>
+    <string name="stype">Type</string>
+    <string name="sprice">Price</string>
+    <string name="category1">action</string>
+    <string name="category2">horror</string>
+    <string name="category3">politics</string>
+    <string name="clear">Clear</string>
+    <string name="paper">Paper</string>
+    <string name="digital">Digital</string>
+    <string name="both">Both</string>
+    <string name="submit">Submit</string>
+</resources>
